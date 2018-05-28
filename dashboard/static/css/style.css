@@ -100,7 +100,7 @@ h3 {
 	height: 100vh;
 }
 #intro.section {
-	background: url(../../static/img/andrew-borstein2.jpg) no-repeat center center/cover;
+	/*background: url(../../static/img/andrew-borstein2.jpg) no-repeat center center/cover;*/
 	position: relative;
 }
 #intro.section .container {
@@ -239,7 +239,7 @@ a.hoverline:hover {
 	height: auto;
 }
 .card.medium .card-image {
-	height: 240px;
+	height: 196px;
 }
 .card-action a.btn-floating {
 	margin-bottom: 0;
@@ -390,4 +390,7 @@ small { display: none;}
 	    text-align: center;
 	    margin: 0 auto;
 	}
+}
+.card.medium .card-content {
+    height: 171px;
 }
