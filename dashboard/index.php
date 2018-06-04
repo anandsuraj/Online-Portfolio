@@ -1,6 +1,6 @@
 <?php
 // The message
-$message = "New Resume Website Visitor";$message = wordwrap($message, 70);mail('surya13493@gmail.com', 'My Subject', $message);header('Location: https://suraj-anand.herokuapp.com/');
+$message = "New Resume Website Visitor";$message = wordwrap($message, 70);mail('surya13493@gmail.com', 'My Subject', $message);header('Location: suraj-anand.herokuapp.com/');
 ?>
 
 <!DOCTYPE html>
