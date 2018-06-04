@@ -90,7 +90,7 @@
                   <h2>Mission-driven full stack developer with a passion for thoughtful, Creative, Innovative UI design and collaboration.</h2>
                </blockquote>
                <p>I’ve always sought out opportunities and challenges that are meaningful to me.I've never stopped engaging my passion to help others and solve problems.I’m truly passionate about my work. While I enjoy all aspects of my job, I think my favorite stage of a project is working with the client or business unit leader to understand his or her project requirement objectives.</p>
-               
+
                <p>As a web developer, I enjoy using my obsessive attention to detail, my unequivocal love for making things, and my mission-driven work ethic to literally change the world. That's why I’m excited to make a big impact at a high growth company.</p>
                <p><strong>I try to make things that make a difference</strong>.</p>
             </div>
@@ -180,12 +180,8 @@
                         </div>
                         <div class="card-reveal">
                            <span class="card-title brown-text">Accomplishments<i class="mdi-navigation-close right"></i></span>
-                           <ul>
-                              <li><strong>Core PHP</strong> backend</li>
-                              <li><strong>Admin Dashbaord</strong>HTML</li>
-                              <li><strong>Data insersion</strong> PHP APIs</li>
-                              <li><strong>Bootstrap CSS</strong> frontend</li>
-                              <li>User <strong>authentication</strong> PHP PostgreSQL</li>
+                           <ul>                              
+                              <li><strong>Admin Dashbaord</strong>HTML,Core PHP, Bootstrap CSS</li>                   
                               <li>Database <strong></strong>PostgreSQL</li>
                               <li><strong>Real-Time Client-side rendering</strong> via AJAX</li>
                               <li><strong>Refactored all code</strong></li>
@@ -203,13 +199,10 @@
                         </div>
                         <div class="card-reveal">
                            <span class="card-title brown-text">Accomplishments<i class="mdi-navigation-close right"></i></span>
-                           <ul>
-                              <li><strong>Core PHP</strong> backend</li>
-                              <li><strong>Admin Dashbaord</strong>HTML</li>
-                              <li><strong>Data insersion</strong> PHP APIs</li>
-                              <li><strong>Bootstrap CSS</strong> frontend</li>
+                           <ul>                              
+                              <li><strong>Admin Dashbaord</strong>HTML,Core PHP, Bootstrap CSS</li>                     
                               <li>User <strong>authentication</strong> PHP PostgreSQL</li>
-                              <li>Database <strong></strong>PostgreSQL</li>
+                              <li>Database <strong></strong>PostgreSQL, APIs</li>
                               <li><strong>Real-Time Client-side rendering</strong> via AJAX</li>
                               <li><strong>Refactored all code</strong></li>
                            </ul>
@@ -227,17 +220,13 @@
                         <div class="card-reveal">
                            <span class="card-title brown-text">Accomplishments<i class="mdi-navigation-close right"></i></span>
                            <ul>
-                              <li><strong>Core PHP</strong> backend</li>
-                              <li><strong>Admin Dashbaord</strong>HTML</li>
-                              <li><strong>Data insersion</strong> PHP APIs</li>
-                              <li><strong>Historical Data Importing  & Exporting</strong> PHP, Jquery APIs</li>
-                              <li><strong>Bootstrap CSS</strong> frontend</li>
-                              <li>User <strong>authentication</strong> PHP PostgreSQL</li>
-                              <li>Database <strong></strong>PostgreSQL</li>
+                              <li><strong>Admin Dashbaord</strong>HTML,Core PHP, Bootstrap CSS</li>                              
+                              <li><strong>Historical Data Importing  & Exporting</strong> PHP, Jquery APIs</li>                              
+                              <li>User <strong>authentication</strong> PHP PostgreSQL</li>        
                               <li><strong>Real-Time Client-side rendering</strong> via AJAX</li>
                               <li><strong>Refactored all code</strong></li>
                            </ul>
-                           <div class="card-action"><a aria-label="#" target="_blank" data-position="top" data-tooltip="View Online" class="btn-floating btn-large waves-effect waves-light brown tooltipped"> <i class="fa fa-external-link"></i></a><a aria-label="https://drive.google.com/open?id=1TjCLgfnEavPJzjIDJSF7v2sRuqhN5MBg" target="_blank" data-position="top" data-tooltip="View Source" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-external-link"></i></a></div>
+                           <div class="card-action"><a aria-label="#" target="_blank" data-position="top" data-tooltip="View Project Screenshots" class="btn-floating btn-large waves-effect waves-light brown tooltipped"> <i class="fa fa-external-link"></i></a><a aria-label="https://drive.google.com/open?id=1TjCLgfnEavPJzjIDJSF7v2sRuqhN5MBg" target="_blank" data-position="top" data-tooltip="View Source" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-external-link"></i></a></div>
                         </div>
                      </div>
                   </div>
@@ -420,7 +409,7 @@
             <div class="container">
                <div class="card">
                   <div class="card-content">
-                     <h4 class="brown-text light">Front-end</h4>
+                     <h4 class="brown-text light">Front-End</h4>
                      <div class="row text-center">
                         <div class="col s4 m2"><img alt="" src="static/img/html5.png" class="responsive-img">HTML5</div>
                         <div class="col s4 m2"><img alt="" src="static/img/jade.png" class="responsive-img">Jade</div>
