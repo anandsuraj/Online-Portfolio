@@ -411,12 +411,12 @@
                   <div class="card-content">
                      <h4 class="brown-text light">Front-End</h4>
                      <div class="row text-center">
-                        <div class="col s4 m2"><img alt="" src="static/img/html5.png" class="responsive-img">HTML5</div>
-                        <div class="col s4 m2"><img alt="" src="static/img/jade.png" class="responsive-img">Jade</div>
-                        <div class="col s4 m2"><img alt="" src="static/img/css3.png" class="responsive-img">CSS3</div>
-                        <div class="col s4 m2"><img alt="" src="static/img/sass.png" class="responsive-img">SASS</div>
-                        <div class="col s4 m2"><img alt="" src="static/img/bootstrap.png" class="responsive-img">Bootstrap</div>
-                        <div class="col s4 m2"><img alt="" src="static/img/javascript.png" class="responsive-img">Javascript</div>                        
+                        <div class="col s4 m2"><img alt="" src="static/img/html5.png" class="responsive-img"></div>
+                        <div class="col s4 m2"><img alt="" src="static/img/jade.png" class="responsive-img"></div>
+                        <div class="col s4 m2"><img alt="" src="static/img/css3.png" class="responsive-img"></div>
+                        <div class="col s4 m2"><img alt="" src="static/img/sass.png" class="responsive-img"></div>
+                        <div class="col s4 m2"><img alt="" src="static/img/bootstrap.png" class="responsive-img"></div>
+                        <div class="col s4 m2"><img alt="" src="static/img/javascript.png" class="responsive-img"></div>                        
                      </div>
                   </div>
                </div>          
@@ -425,10 +425,10 @@
                   <div class="card-content">
                      <h4 class="brown-text light">Back-End</h4>
                      <div class="row text-center">
-                        <div class="col s4 m2"><img alt="" src="static/img/php.jpeg" class="responsive-img">PHP</div>
-                        <div class="col s4 m2"><img alt="" src="static/img/mysql.png" class="responsive-img">MySQL</div>
-                        <div class="col s4 m2"><img alt="" src="static/img/sqlserver.jpg" class="responsive-img">SQL Server</div>
-                        <div class="col s4 m2"><img alt="" src="static/img/postgresql.png" class="responsive-img">PostgreSQL</div>
+                        <div class="col s4 m2"><img alt="" src="static/img/php.jpeg" class="responsive-img"></div>
+                        <div class="col s4 m2"><img alt="" src="static/img/mysql.png" class="responsive-img"></div>
+                        <div class="col s4 m2"><img alt="" src="static/img/sqlserver.jpg" class="responsive-img"></div>
+                        <div class="col s4 m2"><img alt="" src="static/img/postgresql.png" class="responsive-img"></div>
                      </div>
                   </div>
                </div>
@@ -537,7 +537,7 @@
                <p><a aria-label="Email Suraj" href="mailto:surya13493@gmail.com" data-position="top" data-tooltip="Email Suraj" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-envelope"></i><a alt="" href="mailto:surya13493@gmail.com" class="hoverline">surya13493@gmail.com</a></a></p>
                <p><a aria-label="View Suraj on GitHub" href="https://github.com/anandsuraj" target="_blank" data-position="top" data-tooltip="View Suraj on GitHub" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-github"></i><a alt="" href="https://github.com/anandsuraj" class="hoverline">github.com/anandsuraj</a></a></p>
                <p><a aria-label="View Suraj on LinkedIn" href="https://www.linkedin.com/in/surajanandugi/" target="_blank" data-position="top" data-tooltip="View Suraj on LinkedIn" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-linkedin"></i><a alt="" href="https://www.linkedin.com/in/surajanandugi/" class="hoverline">linkedin.com/in/surajanandugi/</a></a></p>
-               <p><a aria-label="View Suraj on Google Plus" href="https://plus.google.com/u/0/+SurajAnandcool" target="_blank" data-position="top" data-tooltip="View Suraj on Google Plus" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-google-plus"></i><a alt="" href="https://plus.google.com/u/0/+SurajAnandcool" class="hoverline">Google+/</a></a></p>
+               <p><a aria-label="View Suraj on Google Plus" href="https://plus.google.com/u/0/+SurajAnandcool" target="_blank" data-position="top" data-tooltip="View Suraj on Google Plus" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-google-plus"></i><a alt="" href="https://plus.google.com/u/0/+SurajAnandcool" class="hoverline">Google+</a></a></p>
             </div>
          </section>
       </main>
