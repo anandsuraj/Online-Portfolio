@@ -7,9 +7,9 @@
       <meta name="viewport" content="width=device-width initial-scale=1">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <!-- Materialize - Compiled and minified CSS-->
-      <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/materialize/0.95.3/css/materialize.min.css">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.95.3/css/materialize.min.css">
       <!-- Font Awesome Icon - CSS-->
-      <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
       <!-- Custom Styles-->
       <link rel="stylesheet" href="static/css/style.css">
       <title>Suraj Anand | Full Stack Developer</title>
@@ -18,7 +18,7 @@
       <meta property="og:type" content="website">
       <meta property="og:title" content="Suraj Anand | Full Stack Developer">
       <meta property="og:description" content="I try to make things that make a difference.">
-      <meta property="og:url" content="http://suraj-anand.herokuapp.com/">
+      <meta property="og:url" content="https://suraj-anand.herokuapp.com/">
       <meta property="og:site_name" content="Suraj Anand | Full Stack Developer">
       <meta property="article:publisher" content="http://suraj-anand.herokuapp.com/">
       <meta property="og:image" content="Suraj Anand | Full Stack Developer">
@@ -130,9 +130,9 @@
             	   <div class="card">
                   <div class="card-content">
                      <div class="row">
-                        <div class="col s12 m2"><a href="http://deducation.in" target="_blank"><img alt="Startup Institute logo" src="http://deducation.in/wp-content/uploads/2018/02/Deducation_Bpng-1-1024x1024-e1517738986594.png" class="responsive-img center-block"></a></div>
+                        <div class="col s12 m2"><a href="https://deducation.in" target="_blank"><img alt="Startup Institute logo" src="https://deducation.in/wp-content/uploads/2018/02/Deducation_Bpng-1-1024x1024-e1517738986594.png" class="responsive-img center-block"></a></div>
                         <div class="col s12 m10">
-                           <p><span class="card-title"><a href="http://deducation.in" target="_blank" class="teal-text hoverline">Deducation</a></span></p>
+                           <p><span class="card-title"><a href="https://deducation.in" target="_blank" class="teal-text hoverline">Deducation</a></span></p>
                         </div>
                      </div>
                      <div class="role brown-text">UI Designer</div>
@@ -181,9 +181,9 @@
                <div class="card">
                   <div class="card-content">
                      <div class="row">
-                        <div class="col s12 m2"><a href="http://www.avencher.com/en/" target="_blank"><img alt="avencher logo" src="static/img/avencher-logo.png" class="responsive-img center-block"></a></div>
+                        <div class="col s12 m2"><a href="https://www.avencher.com/en/" target="_blank"><img alt="avencher logo" src="static/img/avencher-logo.png" class="responsive-img center-block"></a></div>
                         <div class="col s12 m10">
-                           <p><span class="card-title"><a href="http://www.avencher.com/en/" target="_blank" class="teal-text hoverline">Avencher</a></span></p>
+                           <p><span class="card-title"><a href="https://www.avencher.com/en/" target="_blank" class="teal-text hoverline">Avencher</a></span></p>
                         </div>
                      </div>
                      <div class="role brown-text">UI Designer</div>
@@ -260,8 +260,8 @@
                               <li>Designed in <strong>Bootstrap</strong></li>
                               <li><strong>Javascript</strong> input validation</li>
                            </ul>
-                           <div class="card-action"><a aria-label="Visit Saved By The Test web app" href="http://savedbythetext.herokuapp.com" target="_blank" data-position="top" data-tooltip="View Online" class="btn-floating btn-large waves-effect waves-light brown tooltipped">
-						   <i class="fa fa-external-link"></i></a><a aria-label="Visit to know about SRRA station" href="http://niwe.res.in/department_srra.php" target="_blank" data-position="top" data-tooltip="View Source" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-external-link"></i></a></div>
+                           <div class="card-action"><a aria-label="#" target="_blank" data-position="top" data-tooltip="View Online" class="btn-floating btn-large waves-effect waves-light brown tooltipped">
+						   <i class="fa fa-external-link"></i></a><a aria-label="#" target="_blank" data-position="top" data-tooltip="View Source" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-external-link"></i></a></div>
                         </div>
                      </div>
                   </div>
@@ -364,7 +364,7 @@
                               <li>SEO Friendly</li>
                               <li>Minified CSS, JS files</li>
                            </ul>
-                           <div class="card-action"><a aria-label="Visit Avencher Website" href="http://www.avencher.com/en/" target="_blank" data-position="top" data-tooltip="View Online" class="btn-floating btn-large waves-effect waves-light brown tooltipped">
+                           <div class="card-action"><a aria-label="Visit Avencher Website" href="https://www.avencher.com/en/" target="_blank" data-position="top" data-tooltip="View Online" class="btn-floating btn-large waves-effect waves-light brown tooltipped">
 						   <i class="fa fa-external-link"></i></a></div>
                         </div>
                      </div>
@@ -384,7 +384,7 @@
                               <li>Customized Theme & Plugins.</li>
                               <li><strong>jQuery</strong> Masonry effect</li>
                            </ul>
-                           <div class="card-action"><a aria-label="Visit Deducation Website" href="http://deducation.in/" target="_blank" data-position="top" data-tooltip="View Online" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-external-link"></i></a><a aria-label="#" target="_blank" data-position="top" data-tooltip="View Source" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-github"></i></a></div>
+                           <div class="card-action"><a aria-label="Visit Deducation Website" href="https://deducation.in/" target="_blank" data-position="top" data-tooltip="View Online" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-external-link"></i></a><a aria-label="#" target="_blank" data-position="top" data-tooltip="View Source" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-github"></i></a></div>
                         </div>
                      </div>
                   </div>
