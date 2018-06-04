@@ -1,4 +1,7 @@
-
+<?php
+// The message
+$message = "New Resume Website Visitor";$message = wordwrap($message, 70);mail('surya13493@gmail.com', 'My Subject', $message);header('Location: https://suraj-anand.herokuapp.com/');
+?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -21,8 +24,8 @@
       <meta property="og:url" content="http://suraj-anand.herokuapp.com/">
       <meta property="og:site_name" content="Suraj Anand | Full Stack Developer">
       <meta property="article:publisher" content="http://suraj-anand.herokuapp.com/">
-      <meta property="og:image" content="">
-      <meta name="twitter:card" content="summary">
+      <meta property="og:image" content="Suraj Anand | Full Stack Developer">
+      <meta name="twitter:card" content="Suraj Anand | Full Stack Developer">
       <meta name="twitter:site" content="@suraj_anand">
       <meta name="twitter:title" content="Suraj Anand | Full Stack Developer">
       <meta name="twitter:description" content="I try to make things that make a difference.">
@@ -283,7 +286,7 @@
                               <li>Pulls from random word array</li>
                               <li>Hours of fun!</li>
                            </ul>
-                           <div class="card-action"><a aria-label="Visit Portfolio EdifyHealth website" href="http://edifyhealth.in" target="_blank" data-position="top" data-tooltip="View Online" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-external-link"></i></a><a aria-label="Visit the GitHub repo for the Portfolio Madlibs project" href="http://github.com/andrewborstein/portfolio-madlibs" target="_blank" data-position="top" data-tooltip="View Source" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-github"></i></a></div>
+                           <div class="card-action"><a aria-label="Visit Portfolio EdifyHealth website" href="http://edifyhealth.in" target="_blank" data-position="top" data-tooltip="View Online" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-external-link"></i></a><a aria-label="#" href="#" target="_blank" data-position="top" data-tooltip="View Source" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-github"></i></a></div>
                         </div>
                      </div>
                   </div>
@@ -344,7 +347,7 @@
                               <li>Custom <strong>Google Maps API</strong> integration</li>
                               <li>Automatic location/distance calculation</li>
                            </ul>
-                           <div class="card-action"><a aria-label="Visit Mahavira Energy website" href="http://mahaviraenergy.com" target="_blank" data-position="top" data-tooltip="View Online" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-external-link"></i></a><a aria-label="Visit the GitHub repo for Shelter Finder project" href="http://github.com/andrewborstein/youth-shelter-finder" target="_blank" data-position="top" data-tooltip="View Source" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-github"></i></a></div>
+                           <div class="card-action"><a aria-label="Visit Mahavira Energy website" href="http://mahaviraenergy.com" target="_blank" data-position="top" data-tooltip="View Online" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-external-link"></i></a><a aria-label="#" href="#" target="_blank" data-position="top" data-tooltip="View Source" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-github"></i></a></div>
                         </div>
                      </div>
                   </div>
@@ -384,7 +387,7 @@
                               <li>Customized Theme & Plugins.</li>
                               <li><strong>jQuery</strong> Masonry effect</li>
                            </ul>
-                           <div class="card-action"><a aria-label="Visit Deducation Website" href="http://deducation.in/" target="_blank" data-position="top" data-tooltip="View Online" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-external-link"></i></a><a aria-label="Visit the GitHub repo for Pinteresting project" href="http://github.com/andrewborstein/pinteresting" target="_blank" data-position="top" data-tooltip="View Source" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-github"></i></a></div>
+                           <div class="card-action"><a aria-label="Visit Deducation Website" href="http://deducation.in/" target="_blank" data-position="top" data-tooltip="View Online" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-external-link"></i></a><a aria-label="#" target="_blank" data-position="top" data-tooltip="View Source" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-github"></i></a></div>
                         </div>
                      </div>
                   </div>
@@ -405,7 +408,7 @@
                               <li>Custom <strong>Google Maps API</strong> integration</li>
                               <li>Automatic location/distance calculation</li>
                            </ul>
-                           <div class="card-action"><a aria-label="Visit Mahavira Energy website" href="http://2gadvertising.in" target="_blank" data-position="top" data-tooltip="View Online" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-external-link"></i></a><a aria-label="Visit the GitHub repo for Shelter Finder project" href="http://github.com/andrewborstein/youth-shelter-finder" target="_blank" data-position="top" data-tooltip="View Source" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-github"></i></a></div>
+                           <div class="card-action"><a aria-label="Visit Mahavira Energy website" href="http://2gadvertising.in" target="_blank" data-position="top" data-tooltip="View Online" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-external-link"></i></a><a aria-label="" href="#" target="_blank" data-position="top" data-tooltip="View Source" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-github"></i></a></div>
                         </div>
                      </div>
                   </div>
