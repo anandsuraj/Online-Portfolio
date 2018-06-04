@@ -94,7 +94,7 @@
                <p>While I enjoy all aspects of my job, I think my favorite stage of a project is working with the client or business unit leader to understand his or her project requirement objectives.</p>
 
                <p>As a web developer, I enjoy using my obsessive attention to detail, my unequivocal love for making things, and my mission-driven work ethic to literally change the world. That's why I’m excited to make a big impact at a high growth company.</p>
-               
+
                <p><strong>I try to make things that make a difference</strong>.</p>
             </div>
          </section>
@@ -455,6 +455,8 @@
                      <div class="row text-center">
                         <div class="col s4 m2"><img alt="" src="static/img/wordpress.png" class="responsive-img">Wordpress</div>
                         <div class="col s4 m2"><img alt="" src="static/img/woocommerce-logo.png" class="responsive-img">Woocommerce</div>
+                     </div>
+                     <div class="row text-center">
                         <div class="col s4 m2"><img alt="" src="static/img/squarespace.png" class="responsive-img">Squarespace</div>
                         <div class="col s4 m2"><img alt="" src="static/img/Shopify.png" class="responsive-img">Shopify</div>
                      </div>
