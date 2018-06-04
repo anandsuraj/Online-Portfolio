@@ -130,7 +130,7 @@
             	   <div class="card">
                   <div class="card-content">
                      <div class="row">
-                        <div class="col s12 m2"><a href="https://deducation.in" target="_blank"><img alt="Startup Institute logo" src="https://deducation.in/wp-content/uploads/2018/02/Deducation_Bpng-1-1024x1024-e1517738986594.png" class="responsive-img center-block"></a></div>
+                        <div class="col s12 m2"><a href="https://deducation.in" target="_blank"><img alt="Startup Institute logo" src="static/img/deducation.png" class="responsive-img center-block"></a></div>
                         <div class="col s12 m10">
                            <p><span class="card-title"><a href="https://deducation.in" target="_blank" class="teal-text hoverline">Deducation</a></span></p>
                         </div>
