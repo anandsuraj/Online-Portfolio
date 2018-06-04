@@ -74,7 +74,7 @@
             <li class="bold"><a aria-label="Navigate to the Awards section" href="#awards" class="waves-effect waves-dark red-text"><i class="mdi-action-grade small"></i><span>Awards</span></a></li>
             <li class="bold"><a aria-label="Navigate to the Education section" href="#education" class="waves-effect waves-dark orange-text"><i class="mdi-social-school small"></i><span>Education</span></a></li>
             <li class="bold"><a aria-label="Navigate to the Contact section" href="#contact" class="waves-effect waves-dark brown-text"><i class="mdi-content-mail small"></i><span>Contact</span></a></li>
-            <li class="bold"><a aria-label="Navigate to the Resume section" href="Andrew%20Borstein%20-%20Resume%20(12.27.15).pdf" target="_blank" class="waves-effect waves-dark grey-text text-darken-3"><i class="mdi-action-description small"></i><span>Resume</span></a></li>
+            <li class="bold"><a aria-label="Navigate to the Resume section" href="suraj-anand-resume.pdf" target="_blank" class="waves-effect waves-dark grey-text text-darken-3"><i class="mdi-action-description small"></i><span>Resume</span></a></li>
          </ul>
       </nav>
       <main>
@@ -89,9 +89,12 @@
                <blockquote>
                   <h2>Mission-driven full stack developer with a passion for thoughtful, Creative, Innovative UI design and collaboration.</h2>
                </blockquote>
-               <p>I’ve always sought out opportunities and challenges that are meaningful to me.I've never stopped engaging my passion to help others and solve problems.I’m truly passionate about my work. While I enjoy all aspects of my job, I think my favorite stage of a project is working with the client or business unit leader to understand his or her project requirement objectives.</p>
+               <p>I’ve always sought out opportunities and challenges that are meaningful to me.I've never stopped engaging my passion to help others and solve problems.I’m truly passionate about my work. </p>
+
+               <p>While I enjoy all aspects of my job, I think my favorite stage of a project is working with the client or business unit leader to understand his or her project requirement objectives.</p>
 
                <p>As a web developer, I enjoy using my obsessive attention to detail, my unequivocal love for making things, and my mission-driven work ethic to literally change the world. That's why I’m excited to make a big impact at a high growth company.</p>
+               
                <p><strong>I try to make things that make a difference</strong>.</p>
             </div>
          </section>
@@ -536,7 +539,7 @@
             <div class="container">
                <p><a aria-label="Email Suraj" href="mailto:surya13493@gmail.com" data-position="top" data-tooltip="Email Suraj" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-envelope"></i><a alt="" href="mailto:surya13493@gmail.com" class="hoverline">surya13493@gmail.com</a></a></p>
                <p><a aria-label="View Suraj on GitHub" href="https://github.com/anandsuraj" target="_blank" data-position="top" data-tooltip="View Suraj on GitHub" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-github"></i><a alt="" href="https://github.com/anandsuraj" class="hoverline">github.com/anandsuraj</a></a></p>
-               <p><a aria-label="View Suraj on LinkedIn" href="https://www.linkedin.com/in/surajanandugi/" target="_blank" data-position="top" data-tooltip="View Suraj on LinkedIn" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-linkedin"></i><a alt="" href="https://www.linkedin.com/in/surajanandugi/" class="hoverline">linkedin.com/in/surajanandugi/</a></a></p>
+               <p><a aria-label="View Suraj on LinkedIn" href="https://www.linkedin.com/in/surajanandugi/" target="_blank" data-position="top" data-tooltip="View Suraj on LinkedIn" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-linkedin"></i><a alt="" href="https://www.linkedin.com/in/surajanandugi/" class="hoverline">linkedin.com/in/surajanandugi</a></a></p>
                <p><a aria-label="View Suraj on Google Plus" href="https://plus.google.com/u/0/+SurajAnandcool" target="_blank" data-position="top" data-tooltip="View Suraj on Google Plus" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-google-plus"></i><a alt="" href="https://plus.google.com/u/0/+SurajAnandcool" class="hoverline">Google+</a></a></p>
             </div>
          </section>
