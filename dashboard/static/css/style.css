@@ -100,3 +100,8 @@ i.mdi-navigation-close.right{position:relative;bottom:35px;}
 #contact a.btn-floating.btn-large{display:block;text-align:center;margin:0 auto;}
 }
 .card.medium .card-content{height:171px;}
+
+.zopim{
+	display: none;
+}
+
