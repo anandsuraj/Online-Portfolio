@@ -40,7 +40,15 @@
       <meta name="msapplication-TileColor" content="#ffffff">
       <meta name="msapplication-TileImage" content="static/img/favicon/ms-icon-144x144.png">
       <meta name="theme-color" content="#ffffff">
-      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-118258744-1"></script> <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);} gtag('js',new Date());gtag('config','UA-118258744-1');</script> <script type="text/javascript">window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set._.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");$.src="https://v2.zopim.com/?3p9ply4ycWCZGB8npOhUB465VYOhRKfB";z.t=+new Date;$.type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");</script> 
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-118258744-1"></script> 
+      <!--Start of Zendesk Chat Script--><script type="text/javascript">
+      window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+      d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+      _.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
+      $.src="https://v2.zopim.com/?3p9ply4ycWCZGB8npOhUB465VYOhRKfB";z.t=+new Date;$.
+      type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
+      </script>
+      <!--End of Zendesk Chat Script-->
       <meta name="robots" content="index, follow">
    </head>
    <body>
@@ -114,11 +122,11 @@
                      <ul>
                         <li>Leading the company’s Web development efforts</li>
                         <li>Manage the Projects Management Team</li>
-                        <li>Developing eCommerce Portal, Static & Dynamic Websites using WordPress, Magento & PHP.</li>
-                        <li>Stack: HTML, CSS, JQery, Java Script, PHP, MySQL, Web services APIs, Open source Framwork, WordPress</li>
+                        <li>Developing eCommerce Portal, Static & Dynamic Websites using WordPress, Magento.</li>
+                        <li>Tech Stack: HTML, CSS, JQery, Java Script, PHP, MySQL, Web services APIs, Open source Framwork, WordPress, Magento</li>
                      </ul>
                   </div>
-                  <div class="card-action"><span>Feb 2018 - Present | Gurgaon, India</span></div>
+                  <div class="card-action"><span>Feb 2018 - Present | Gurugram, India</span></div>
                </div>
                <div class="card">
                   <div class="card-content">
@@ -133,12 +141,13 @@
                      </h6>
                      <ul>
                         <li>Led the company’s software development efforts</li>
-                        <li>Built  Real-Time Monitoring, Storage and Analytics apps for solar </li>
-                        <li>Stack: HTML, CSS, JQery, Java Script, PHP, PostGreSQL, Web services APIs, Open source Framwork.</li>
+                        <li>Built Cloud-based Real-Time Monitoring, Storage and Analytics Software application for solar PV</li>
+                        <li>Application can collect, Organize and assess into PV performance.</li>
+                        <li>Tech Stack: HTML, CSS, JQery, Java Script, PHP, PostGreSQL, Web services APIs, Open source Framwork.</li>
                      </ul>
                      <h6>Accomplishments</h6>
                      <ul>
-                        <li>Developed an application to monitor Real-time PV Solar plant data, NISE, an autonomous institution of Ministry of New and Renewable (MNRE), Gurgaon India.</li>
+                        <li>Developed an <a aria-label="Documentation" href="monitoring_ppt.ppt" target="_blank" data-tooltip="Documentation">application</a> to monitor Real-time PV Solar plant data, NISE, an autonomous institution of Ministry of New and Renewable (MNRE), Gurgaon India.</li>
 
                         <li>Designed and developed an application to monitor SRRA(Solar Radiation Resource Assessment) station for analysis of solar and meteorological data, National Institute of Wind Energy (NIWE), NIWE is an autonomous R&D institution under the Ministry of New and Renewable Energy, Government of India.</li>
 
@@ -146,7 +155,7 @@
 
                         <li>Designed an SEO optimized website for Soreva & National Institute of solar energy to show the historical data of all solar plants installed at NISE.</li>
 
-                        <li>Worked on server-side platform, mostly involved in cloud platform Heroku, PHP with JS, JQuery, Bootstrap</li>
+                        <li>Worked on server-side platform, mostly involved in cloud platform Heroku, PHP, MySQL, JS, JQuery & Bootstrap</li>
                      </ul>
                   </div>
                   <div class="card-action"><span>Dec 2016 - Dec 2017 | Gurgaon, India</span></div>
@@ -154,9 +163,9 @@
                <div class="card">
                   <div class="card-content">
                      <div class="row">
-                        <div class="col s12 m2"><a href="https://www.avencher.com/en/" target="_blank"><img alt="avencher logo" src="static/img/avencher-logo.png" class="responsive-img center-block"></a></div>
+                        <div class="col s12 m2"><a href="https://www.avencher.com/" target="_blank"><img alt="avencher logo" src="static/img/avencher-logo.png" class="responsive-img center-block"></a></div>
                         <div class="col s12 m10">
-                           <p><span class="card-title"><a href="https://www.avencher.com/en/" target="_blank" class="teal-text hoverline">Avencher</a></span></p>
+                           <p><span class="card-title"><a href="https://www.avencher.com" target="_blank" class="teal-text hoverline">Avencher</a></span></p>
                         </div>
                      </div>
                      <div class="role brown-text">UI Designer</div>
@@ -173,26 +182,7 @@
          <section id="projects" class="section scrollspy">
             <h3 class="page-title white-text teal">Projects</h3>
             <div class="container">
-               <div class="row">
-                  <div class="col s12 m6 l4">
-                     <div class="card medium">
-                        <div class="card-image waves-effect waves-block waves-light"><img alt="Screenshot of BlogSpire web app" src="static/img/projects/soreva_mitra-min.png" class="activator"></div>
-                        <div class="card-content">
-                           <span class="card-title activator teal-text hoverline">Real-Time Solar PV Monitoring System<i class="mdi-navigation-more-vert right"></i></span>
-                           <p>Real-Time Solar PV & Weather Monitoring System</p>
-                        </div>
-                        <div class="card-reveal">
-                           <span class="card-title brown-text">Accomplishments<i class="mdi-navigation-close right"></i></span>
-                           <ul>                              
-                              <li><strong>Admin Dashbaord</strong>HTML,Core PHP, Bootstrap CSS</li>                   
-                              <li>Database <strong></strong>PostgreSQL</li>
-                              <li><strong>Real-Time Client-side rendering</strong> via AJAX</li>
-                              <li><strong>Refactored all code</strong></li>
-                           </ul>
-                           <div class="card-action"><a aria-label="Visit Code Island website" href="#" target="_blank" data-position="top" data-tooltip="View Online" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-external-link"></i></a><a aria-label="Visit the GitHub repo for Code Island project" href="#e" target="_blank" data-position="top" data-tooltip="View Source" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-github"></i></a></div>
-                        </div>
-                     </div>
-                  </div>
+               <div class="row">                  
                   <div class="col s12 m6 l4">
                      <div class="card medium">
                         <div class="card-image waves-effect waves-block waves-light"><img alt="Soreva MITRA suraj anand " src="static/img/projects/soreva_mitra-min.png" class="activator"></div>
@@ -203,13 +193,14 @@
                         <div class="card-reveal">
                            <span class="card-title brown-text">Accomplishments<i class="mdi-navigation-close right"></i></span>
                            <ul>                              
-                              <li><strong>Admin Dashbaord</strong>HTML,Core PHP, Bootstrap CSS</li>                     
-                              <li>User <strong>authentication</strong> PHP PostgreSQL</li>
-                              <li>Database <strong></strong>PostgreSQL, APIs</li>
-                              <li><strong>Real-Time Client-side rendering</strong> via AJAX</li>
-                              <li><strong>Refactored all code</strong></li>
+                              <li><strong>Admin Dashbaording</strong>HTML,PHP, Bootstrap CSS</li>                     
+                              <li> <strong>User authentication</strong></li>
+                              <li> <strong>Dynamic Filtering & Grouping capabilites</strong></li>
+                              <li><strong>Graphical Reports</strong></li>
+                              <li><strong>Quick and easy data visualization and exportation</strong></li>
                            </ul>
-                           <div class="card-action"><a aria-label="Visit Product Screenshots" href="https://drive.google.com/open?id=1NblbFc9l98MUzi5pzJcChUnJMPllldgR" target="_blank" data-position="top" data-tooltip="View Online" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-external-link"></i></a> <a aria-label="View the Product MITRA demo video" href="https://youtu.be/3epJ8kLZiLk" target="_blank" data-position="top" data-tooltip="View Demo Video" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-youtube-play"></i></a></div>
+                           <div class="card-action"><a aria-label="Visit Product Screenshots" href="https://drive.google.com/open?id=1NblbFc9l98MUzi5pzJcChUnJMPllldgR" target="_blank" data-position="top" data-tooltip="View Product Screenshots" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-external-link"></i></a> <a aria-label="View the Product MITRA demo video" href="https://youtu.be/3epJ8kLZiLk" target="_blank" data-position="top" data-tooltip="View Demo Video" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-youtube-play"></i></a>
+                              <a aria-label="Documentation" href="monitoring_ppt.ppt" target="_blank" data-position="top" data-tooltip="Documentation" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-file-powerpoint-o"></i></a></div>
                         </div>
                      </div>
                   </div>
@@ -223,13 +214,54 @@
                         <div class="card-reveal">
                            <span class="card-title brown-text">Accomplishments<i class="mdi-navigation-close right"></i></span>
                            <ul>
-                              <li><strong>Admin Dashbaord</strong>HTML,Core PHP, Bootstrap CSS</li>                              
-                              <li><strong>Historical Data Importing  & Exporting</strong> PHP, Jquery APIs</li>                              
-                              <li>User <strong>authentication</strong> PHP PostgreSQL</li>        
-                              <li><strong>Real-Time Client-side rendering</strong> via AJAX</li>
-                              <li><strong>Refactored all code</strong></li>
+                              <li><strong>Admin Dashbaording</strong></li>                     
+                              <li> <strong>User authentication</strong></li>
+                              <li> <strong>Dynamic Filtering & Grouping capabilites</strong></li>
+                              <li><strong>Graphical Reports</strong></li>
+                              <li><strong>Quick and easy data visualization and exportation</strong></li>
                            </ul>
                            <div class="card-action"><a aria-label="#" target="_blank" data-position="top" data-tooltip="View Project Screenshots" class="btn-floating btn-large waves-effect waves-light brown tooltipped"> <i class="fa fa-external-link"></i></a><a aria-label="https://drive.google.com/open?id=1TjCLgfnEavPJzjIDJSF7v2sRuqhN5MBg" target="_blank" data-position="top" data-tooltip="View Source" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-external-link"></i></a></div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col s12 m6 l4">
+                     <div class="card medium">
+                        <div class="card-image waves-effect waves-block waves-light"><img alt="" src="static/img/projects/online-battery-mart.png" class="activator"></div>
+                        <div class="card-content">
+                           <span class="card-title activator teal-text hoverline">Online Battery Mart<i class="mdi-navigation-more-vert right"></i></span>
+                           <p>Designed an e-commerce based portal to sell Car-Battery, Inverters-Battery & Inverters online using WordPress, Woocomerce.</p>
+                        </div>
+                        <div class="card-reveal">
+                           <span class="card-title brown-text">Accomplishments<i class="mdi-navigation-close right"></i></span>
+                           <ul>
+                              <li><strong>Features</strong></li>                              
+                              <li><strong>Payment Gateway</strong></li>                         
+                              <li><strong>Shipping Method</strong></li>        
+                              <li><strong>Secure</strong></li>
+                              <li><strong>Light-Weight</strong></li>
+                           </ul>
+                           <div class="card-action"><a aria-label="https://onlinebatterymart.com/" target="_blank" data-position="top" data-tooltip="View Online" class="btn-floating btn-large waves-effect waves-light brown tooltipped"> 
+                              <i class="fa fa-external-link"></i></a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col s12 m6 l4">
+                     <div class="card medium">
+                        <div class="card-image waves-effect waves-block waves-light"> <img alt="dlt-shoes" src="static/img/projects/dlt-shoes.png" class="activator"></div>
+                        <div class="card-content">
+                           <span class="card-title activator teal-text hoverline">DLT Shoes(Under Construction)<i class="mdi-navigation-more-vert right"></i></span>
+                           <p>Designing a Responsive, Light-Weight, Secure Ecommerce Website for a Shoes company Based in USA.</p>
+                        </div>
+                        <div class="card-reveal">
+                           <span class="card-title brown-text">Accomplishments<i class="mdi-navigation-close right"></i></span>
+                           <ul>
+                              <li><strong>Features</strong></li>
+                              <li><strong>Customized</strong> Woocommerce for Shop and Products.</li>
+                              <li><strong>Multi-Currency</strong> integration</li>
+                              <li>Payment & Shipping Integration</li>
+                           </ul>
+                           <div class="card-action"><a aria-label="Will be live soon" href="http://dltshoes.com" target="_blank" data-position="top" data-tooltip="View Online" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-external-link"></i></a></div>
                         </div>
                      </div>
                   </div>
@@ -287,7 +319,7 @@
                               <li>Fully <strong>responsive</strong> designs</li>
                               <li>SEO Optimized</li>
                            </ul>
-                           <div class="card-action"><a aria-label="Visit Destiny India Holidays website" href="destinyindiaholidays.com" target="_blank" data-position="top" data-tooltip="View Online" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-external-link"></i></a></div>
+                           <div class="card-action"><a aria-label="Visit Destiny India Holidays website" href="http://destinyindiaholidays.com" target="_blank" data-position="top" data-tooltip="View Online" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-external-link"></i></a></div>
                         </div>
                      </div>
                   </div>
@@ -347,25 +379,7 @@
                         </div>
                      </div>
                   </div>
-                  <div class="col s12 m6 l4">
-                     <div class="card medium">
-                        <div class="card-image waves-effect waves-block waves-light"> <img alt="2gadvertising" src="static/img/projects/2gadvertising-min.PNG" class="activator"></div>
-                        <div class="card-content">
-                           <span class="card-title activator teal-text hoverline">2g Advertising<i class="mdi-navigation-more-vert right"></i></span>
-                           <p>Designed a Responsive Website for a advertising company.</p>
-                        </div>
-                        <div class="card-reveal">
-                           <span class="card-title brown-text">Accomplishments<i class="mdi-navigation-close right"></i></span>
-                           <ul>
-                              <li>Customized WordPress Theme & Plugins.</li>
-                              <li><strong>Customized</strong> Woocommerce for Shop and Products.</li>
-                              <li>Custom <strong>Google Maps API</strong> integration</li>
-                              <li>Automatic location/distance calculation</li>
-                           </ul>
-                           <div class="card-action"><a aria-label="Visit Mahavira Energy website" href="http://2gadvertising.in" target="_blank" data-position="top" data-tooltip="View Online" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-external-link"></i></a><a aria-label="" href="#" target="_blank" data-position="top" data-tooltip="View Source" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-github"></i></a></div>
-                        </div>
-                     </div>
-                  </div>
+                  
                   <div class="col s12 m6 l4">
                      <div class="card medium">
                         <div class="card-image waves-effect waves-block waves-light"><img alt="Soreva" src="static/img/projects/soreva-min.PNG" class="activator"></div>
@@ -523,7 +537,7 @@
                         </div>
                      </div>
                   </div>
-                  <div class="col s12">
+                  <!-- <div class="col s12">
                      <div class="card">
                         <div class="card-content">
                            <p><span class="card-title"><a href="https://www.united.ac.in/" class="teal-text hoverline">Source of Learning</a></span></p>
@@ -533,7 +547,7 @@
                         </div>
                      </div>
                   </div>
-               </div>
+                                 </div> -->
             </div>
          </section>
          <section id="contact" class="section scrollspy full-height">
