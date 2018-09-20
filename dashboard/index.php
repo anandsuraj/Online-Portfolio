@@ -211,7 +211,7 @@
                               <li><strong>Quick and easy data visualization and exportation</strong></li>
                            </ul>
                            <div class="card-action"><a aria-label="Visit Product Screenshots" href="https://drive.google.com/open?id=1NblbFc9l98MUzi5pzJcChUnJMPllldgR" target="_blank" data-position="top" data-tooltip="View Product Screenshots" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-external-link"></i></a> <a aria-label="View the Product MITRA demo video" href="https://youtu.be/3epJ8kLZiLk" target="_blank" data-position="top" data-tooltip="View Demo Video" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-youtube-play"></i></a>
-                              <a aria-label="Documentation" href="monitoring_ppt.ppt" target="_blank" data-position="top" data-tooltip="Documentation" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-file-powerpoint-o"></i></a></div>
+                              <a aria-label="Documentation" href="monitoring_ppt.pptx" target="_blank" data-position="top" data-tooltip="Documentation" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-file-powerpoint-o"></i></a></div>
                         </div>
                      </div>
                   </div>
@@ -251,7 +251,7 @@
                               <li><strong>Secure</strong></li>
                               <li><strong>Light-Weight</strong></li>
                            </ul>
-                           <div class="card-action"><a aria-label="https://onlinebatterymart.com/" target="_blank" data-position="top" data-tooltip="View Online" class="btn-floating btn-large waves-effect waves-light brown tooltipped"> 
+                           <div class="card-action"><a aria-label="online battery mart" href="https://onlinebatterymart.com/" target="_blank" data-position="top" data-tooltip="View Online" class="btn-floating btn-large waves-effect waves-light brown tooltipped"> 
                               <i class="fa fa-external-link"></i></a>
                            </div>
                         </div>
@@ -261,7 +261,7 @@
                      <div class="card medium">
                         <div class="card-image waves-effect waves-block waves-light"> <img alt="dlt-shoes" src="static/img/projects/dlt-shoes.png" class="activator"></div>
                         <div class="card-content">
-                           <span class="card-title activator teal-text hoverline">DLT Shoes(Under Construction)<i class="mdi-navigation-more-vert right"></i></span>
+                           <span class="card-title activator teal-text hoverline">DLT Shoes(Under Constr.)<i class="mdi-navigation-more-vert right"></i></span>
                            <p>Designing a Responsive, Light-Weight, Secure Ecommerce Website for a Shoes company Based in USA.</p>
                         </div>
                         <div class="card-reveal">
