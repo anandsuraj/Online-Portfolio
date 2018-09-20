@@ -218,7 +218,7 @@
                   </div>
                   <div class="col s12 m6 l4">
                      <div class="card medium">
-                        <div class="card-image waves-effect waves-block waves-light"><img alt="" src="static/img/projects/soreva_mitra-min.png" class="activator"></div>
+                        <div class="card-image waves-effect waves-block waves-light"><img alt="" src="static/img/projects/niwe.png" class="activator"></div>
                         <div class="card-content">
                            <span class="card-title activator teal-text hoverline">Real-Time Weather Monitoring System(NIWE)<i class="mdi-navigation-more-vert right"></i></span>
                            <p>Designed an Web apps to monitor the Real-Time Solar Radiation Resource Assessment Workstation Weather Data, Hosted at National Institute of Wind Energy, Chennai.</p>
