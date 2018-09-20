@@ -145,6 +145,17 @@
                         <li>Application can collect, Organize and assess into PV performance.</li>
                         <li>Tech Stack: HTML, CSS, JQery, Java Script, PHP, PostGreSQL, Web services APIs, Open source Framwork.</li>
                      </ul>
+                     <h6>Application Features</h6>
+                     <ul>
+                        <li>Dashboarding</li>
+                        <li>Dynamic Filtering</li>
+                        <li>Graphical Reports</li>
+                        <li>All Device-Compatible</li>
+                        <li>Historical data in perpetuity </li>
+                        <li>Normalize inverter & String data</li>
+                        <li>Quick and easy data visualization and exportation</li>
+                        <li>and many more</li>
+                     </ul>
                      <h6>Accomplishments</h6>
                      <ul>
                         <li>Developed an <a aria-label="Documentation" href="monitoring_ppt.ppt" target="_blank" data-tooltip="Documentation">application</a> to monitor Real-time PV Solar plant data, NISE, an autonomous institution of Ministry of New and Renewable (MNRE), Gurgaon India.</li>
