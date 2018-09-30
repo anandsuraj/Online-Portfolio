@@ -279,7 +279,7 @@
                   </div>
                   <div class="col s12 m6 l4">
                      <div class="card medium">
-                        <div class="card-image waves-effect waves-block waves-light"> <img alt="Onitaa website screenshots design by suraj anand" src="static/img/projects/onitaa.jpg" class="activator"></div>
+                        <div class="card-image waves-effect waves-block waves-light"> <img alt="Onitaa website screenshots design by suraj anand" src="static/img/projects/onitaa.JPG" class="activator"></div>
                         <div class="card-content">
                            <span class="card-title activator teal-text hoverline">Onitaa<i class="mdi-navigation-more-vert right"></i></span>
                            <p>O’nitaa is London’s foremost multi-designer Indian Couture UK, specializing in Asian wear dresses. We provide bespoke designing services and sales via our retail store in Chelsea London.</p>
