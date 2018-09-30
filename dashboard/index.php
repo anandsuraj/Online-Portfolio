@@ -115,7 +115,7 @@
                      <div class="row">
                         <div class="col s12 m2"><a href="https://deducation.in" target="_blank"><img alt="Startup Institute logo" src="static/img/deducation.png" class="responsive-img center-block"></a></div>
                         <div class="col s12 m10">
-                           <p><span class="card-title"><a href="https://deducation.in" target="_blank" class="teal-text hoverline">Deducation</a></span></p>
+                           <p><span class="card-title"><a href="https://deducation.in" target="_blank" class="teal-text hoverline">Digital Projects</a></span></p>
                         </div>
                      </div>
                      <div class="role brown-text">UI Designer</div>
@@ -124,7 +124,7 @@
                         <li>Leading the company’s Web development efforts</li>
                         <li>Manage the Projects Management Team</li>
                         <li>Developing eCommerce Portal, Static & Dynamic Websites using WordPress, Magento.</li>
-                        <li>Tech Stack: HTML, CSS, JQery, Java Script, PHP, MySQL, Web services APIs, Open source Framwork, WordPress, Magento</li>
+                        <li>Tech Stack: HTML, CSS, JQuery, Java Script, PHP, MySQL, Web services APIs, Open source Framwork, WordPress, Magento</li>
                      </ul>
                   </div>
                   <div class="card-action"><span>Feb 2018 - Present | Gurugram, India</span></div>
@@ -144,7 +144,7 @@
                         <li>Led the company’s software development efforts</li>
                         <li>Built Cloud-based Real-Time Monitoring, Storage and Analytics Software application for solar PV</li>
                         <li>Application can collect, Organize and assess into PV performance.</li>
-                        <li>Tech Stack: HTML, CSS, JQery, Java Script, PHP, PostGreSQL, Web services APIs, Open source Framwork.</li>
+                        <li>Tech Stack: HTML, CSS, JQuery, Java Script, PHP, PostGreSQL, Raspberry Pi, Web services APIs, Open source Framwork.</li>
                      </ul>
                      <h6>Application Features</h6>
                      <ul>
@@ -159,7 +159,7 @@
                      </ul>
                      <h6>Accomplishments</h6>
                      <ul>
-                        <li>Developed an <a aria-label="Documentation" href="monitoring_ppt.pptx" target="_blank" data-tooltip="Documentation">application</a> to monitor Real-time PV Solar plant data, NISE, an autonomous institution of Ministry of New and Renewable (MNRE), Gurgaon India.</li>
+                        <li>Developed an <a aria-label="Documentation" href="monitoring_ppt.pptx" target="_blank" data-tooltip="Documentation">application</a> to monitor Real-time PV Solar plant data with the help of IoT, NISE, an autonomous institution of Ministry of New and Renewable (MNRE), Gurgaon India.</li>
 
                         <li>Designed and developed an application to monitor SRRA(Solar Radiation Resource Assessment) station for analysis of solar and meteorological data, National Institute of Wind Energy (NIWE), NIWE is an autonomous R&D institution under the Ministry of New and Renewable Energy, Government of India.</li>
 
@@ -184,7 +184,7 @@
                      <p><em class="grey-text">A Web developement Company, Expertise in eCommerce Developement, Web Developement.</em></p>
                      <ul>
                         <li>Developed Static & Dynamic Websites.</li>
-                        <li>Stack: HTML, CSS, JQery, Java Script, PHP, MySQL, Web services APIs, Open source Framwork.</li>
+                        <li>Stack: HTML, CSS, JQuery, Java Script, PHP, MySQL, Web services APIs, Open source Framwork.</li>
                      </ul>
                   </div>
                   <div class="card-action"><span>Sep 2016 - Dec 2016 | Noida, India</span></div>
@@ -422,9 +422,9 @@
                            <span class="card-title brown-text">Accomplishments<i class="mdi-navigation-close right"></i></span>
                            <ul>
                               <li>Made <strong>Responsive</strong> Design</li>
-                              <li>Customized Javascript & JQery</li>
+                              <li>Customized Javascript & JQuery</li>
                               <li>Optimized, SEO Friendly.</li>
-                              <li>Built with <strong>HTML</strong> <strong>JQery</strong> Bootstrap</li>
+                              <li>Built with <strong>HTML</strong> <strong>JQuery</strong> Bootstrap</li>
                            </ul>
                            <div class="card-action"><a aria-label="Visit LPG Rice website" href="http://www.lpgrice.com" target="_blank" data-position="top" data-tooltip="View Online" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-external-link"></i></a></div>
                         </div>
@@ -483,7 +483,7 @@
                         <div class="col s4 m2"><img alt="" src="static/img/woocommerce-logo.png" class="responsive-img">Woocommerce</div>
                      </div>
                      <div class="row text-center">
-                        <div class="col s4 m2"><img alt="" src="static/img/squarespace.png" class="responsive-img">Squarespace</div>
+                        <div class="col s4 m2"><img alt="" src="static/img/Magento-logo.png" class="responsive-img">Magento</div>
                         <div class="col s4 m2"><img alt="" src="static/img/Shopify.png" class="responsive-img">Shopify</div>
                      </div>
                   </div>
