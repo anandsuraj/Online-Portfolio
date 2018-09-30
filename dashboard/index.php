@@ -232,7 +232,7 @@
                               <li><strong>Graphical Reports</strong></li>
                               <li><strong>Quick and easy data visualization and exportation</strong></li>
                            </ul>
-                           <div class="card-action"><a aria-label="#" target="_blank" data-position="top" data-tooltip="View Project Screenshots" class="btn-floating btn-large waves-effect waves-light brown tooltipped"> <i class="fa fa-external-link"></i></a><a aria-label="https://drive.google.com/open?id=1TjCLgfnEavPJzjIDJSF7v2sRuqhN5MBg" target="_blank" data-position="top" data-tooltip="View Source" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-external-link"></i></a></div>
+                           <div class="card-action"><a aria-label="#" href="https://drive.google.com/open?id=1TjCLgfnEavPJzjIDJSF7v2sRuqhN5MBg" target="_blank" data-position="top" data-tooltip="View Project Screenshots" class="btn-floating btn-large waves-effect waves-light brown tooltipped"> <i class="fa fa-external-link"></i></a></div>
                         </div>
                      </div>
                   </div>
@@ -282,17 +282,17 @@
                         <div class="card-image waves-effect waves-block waves-light"> <img alt="Onitaa website screenshots design by suraj anand" src="static/img/projects/onitaa.JPG" class="activator"></div>
                         <div class="card-content">
                            <span class="card-title activator teal-text hoverline">Onitaa<i class="mdi-navigation-more-vert right"></i></span>
-                           <p>O’nitaa is London’s foremost multi-designer Indian Couture UK, specializing in Asian wear dresses. We provide bespoke designing services and sales via our retail store in Chelsea London.</p>
+                           <p>O’nitaa is London’s foremost multi-designer Indian Couture UK, specializing in Asian wear dresses. O’nitaa provide bespoke designing services and sales.</p>
                         </div>
                         <div class="card-reveal">
                            <span class="card-title brown-text">Accomplishments<i class="mdi-navigation-close right"></i></span>
                            <ul>
                               <li>Light-Weight & SEO optimized</li>
                               <li>Compatible with all devices</li>
-                              <li>Compatible with all latest browser</li><li></li>
+                              <li>Compatible with all latest browser</li>
                               <li>Hours of fun!</li>
                            </ul>
-                           <div class="card-action"><a aria-label="Visit Portfolio Onitaa website" href="https://dprojects.in/onitaa/" target="_blank" data-position="top" data-tooltip="View Online" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-external-link"></i></a><a aria-label="#" href="#" target="_blank" data-position="top" data-tooltip="View Source" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-github"></i></a></div>
+                           <div class="card-action"><a aria-label="Visit Portfolio Onitaa website" href="https://dprojects.in/onitaa/" target="_blank" data-position="top" data-tooltip="View Online" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-external-link"></i></a></div>
                         </div>
                      </div>
                   </div>
