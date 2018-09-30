@@ -279,21 +279,20 @@
                   </div>
                   <div class="col s12 m6 l4">
                      <div class="card medium">
-                        <div class="card-image waves-effect waves-block waves-light"> <img alt="edifyhealth website screenshots design by suraj anand" src="static/img/projects/edifyhealth-min.png" class="activator"></div>
+                        <div class="card-image waves-effect waves-block waves-light"> <img alt="Onitaa website screenshots design by suraj anand" src="static/img/projects/onitaa.jpg" class="activator"></div>
                         <div class="card-content">
-                           <span class="card-title activator teal-text hoverline">EdifyHealth<i class="mdi-navigation-more-vert right"></i></span>
-                           <p>A light weight responsive, optimized WordPress designed website, Built for Local and International Client.</p>
+                           <span class="card-title activator teal-text hoverline">Onitaa<i class="mdi-navigation-more-vert right"></i></span>
+                           <p>O’nitaa is London’s foremost multi-designer Indian Couture UK, specializing in Asian wear dresses. We provide bespoke designing services and sales via our retail store in Chelsea London.</p>
                         </div>
                         <div class="card-reveal">
                            <span class="card-title brown-text">Accomplishments<i class="mdi-navigation-close right"></i></span>
                            <ul>
-                              <li>Converted HTML Website to WordPress</li>
-                              <li>Custom <strong>jQuery</strong> script</li>
-                              <li>Hover and click actions</li>
-                              <li>Pulls from random word array</li>
+                              <li>Light-Weight & SEO optimized</li>
+                              <li>Compatible with all devices</li>
+                              <li>Compatible with all latest browser</li><li></li>
                               <li>Hours of fun!</li>
                            </ul>
-                           <div class="card-action"><a aria-label="Visit Portfolio EdifyHealth website" href="http://edifyhealth.in" target="_blank" data-position="top" data-tooltip="View Online" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-external-link"></i></a><a aria-label="#" href="#" target="_blank" data-position="top" data-tooltip="View Source" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-github"></i></a></div>
+                           <div class="card-action"><a aria-label="Visit Portfolio Onitaa website" href="https://dprojects.in/onitaa/" target="_blank" data-position="top" data-tooltip="View Online" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-external-link"></i></a><a aria-label="#" href="#" target="_blank" data-position="top" data-tooltip="View Source" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-github"></i></a></div>
                         </div>
                      </div>
                   </div>
