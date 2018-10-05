@@ -279,7 +279,7 @@
                   </div>
                   <div class="col s12 m6 l4">
                      <div class="card medium">
-                        <div class="card-image waves-effect waves-block waves-light"> <img alt="Onitaa website screenshots design by suraj anand" src="static/img/projects/onitaa.JPG" class="activator"></div>
+                        <div class="card-image waves-effect waves-block waves-light"> <img alt="Onitaa website designed by suraj anand" src="static/img/projects/onitaa.JPG" class="activator"></div>
                         <div class="card-content">
                            <span class="card-title activator teal-text hoverline">Onitaa<i class="mdi-navigation-more-vert right"></i></span>
                            <p>O’nitaa is London’s foremost multi-designer Indian Couture UK, specializing in Asian wear dresses. O’nitaa provide bespoke designing services and sales.</p>
@@ -292,7 +292,7 @@
                               <li>Compatible with all latest browser</li>
                               <li>Hours of fun!</li>
                            </ul>
-                           <div class="card-action"><a aria-label="Visit Portfolio Onitaa website" href="https://dprojects.in/onitaa/" target="_blank" data-position="top" data-tooltip="View Online" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-external-link"></i></a></div>
+                           <div class="card-action"><a aria-label="Visit Onitaa website" href="https://onitaa.co.uk/" target="_blank" data-position="top" data-tooltip="View Online" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-external-link"></i></a></div>
                         </div>
                      </div>
                   </div>
