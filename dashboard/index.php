@@ -521,7 +521,7 @@
                      <div class="card">
                         <div class="card-content">
                            <p><span class="card-title"><a href="https://re-invest.in/" target="_blank" class="teal-text hoverline">Participated as a delegate</a></span></p>
-                           <p class="brown-text">2nd Global RE-INVEST 2018 India-ISA Partnership Renewable Energy Investors Meet & Expo.</p>
+                           <p class="brown-text">2nd Global RE-INVEST 2018 India-ISA Partnership Renewable Energy Investors Meet & Expo. | India Expo Mart, Greater Noida | OCT 2018</p>
                            <ul>
                               <li>RE-INVEST is a global platform to explore strategies for development and deployment of renewables. It showcases India’s clean energy market and the Government’s efforts to scale up capacity to meet the national energy demand in socially, economically and ecologically sustainable ways.</li>            
                               
@@ -533,7 +533,7 @@
                      <div class="card">
                         <div class="card-content">
                            <p><span class="card-title"><a href="http://www.globalyouth.in/" target="_blank" class="teal-text hoverline">Participated as a delegate</a></span></p>
-                           <p class="brown-text">Global Youth Annual Summit | March 2018</p>
+                           <p class="brown-text">Global Youth Annual Summit | IIC, New Delhi | March 2018</p>
                            <ul>
                               <li>Global Youth is an apolitical, not-for-profit organisation looking to empower youth ambassadors for a global generation.</li>
                               <li> Global Youth looks to bring young minds a worldwide perspective and make the youth active, insightful and vibrant participants in creating a vision for where India stands in a globalised generation.</li>
@@ -547,7 +547,7 @@
                      <div class="card">
                         <div class="card-content">
                            <p><span class="card-title"><a href="https://data.gov.in/" target="_blank" class="teal-text hoverline">Participated as a delegate</a></span></p>
-                           <p class="brown-text">Launch of #OpenGovDataHack | Sept 2017</p>
+                           <p class="brown-text">Launch of #OpenGovDataHack | Vigyan Bhavan, New Delhi | Sept 2017</p>
                            <ul>
                               <li>Open Government Data (OGD) Platform India is at the forefront in promoting innovation in Open Data ecosystem.</li>
                               <li> NIC, in association with IAMAI & StartUp India has organized a Hackathon – “#OpenGovDataHack”, for Students, Entrepreneurs, Innovators, Start-ups, Developers and Community to create unique and innovative service delivery Applications & Info-Graphics to foster innovation.</li>
@@ -561,7 +561,7 @@
                      <div class="card">
                         <div class="card-content">
                            <p><span class="card-title"><a href="http://www.renewableenergyindiaexpo.com/" target="_blank" class="teal-text hoverline">Participated as a delegate</a></span></p>
-                           <p class="brown-text">Renewable Energy India Expo | Sept 2017</p>
+                           <p class="brown-text">Renewable Energy India Expo| India Expo Mart, Greater Noida | Sept 2017</p>
                            <ul>
                               <li>UBM India launched the 11th edition of the Renewable Energy India (REI) Expo, the three days (20th to 22nd September 2017) show at the India Expo Center, Greater Noida.</li>
                            </ul>
