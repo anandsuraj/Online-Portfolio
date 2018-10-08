@@ -122,9 +122,10 @@
                      <p><em class="grey-text">A Web developement Company, Expertise in eCommerce Developement, Web Developement & Digital Marketing.</em></p>
                      <ul>
                         <li>Leading the company’s Web development efforts</li>
-                        <li>Manage the Projects Management Team</li>
-                        <li>Developing eCommerce Portal, Static & Dynamic Websites using WordPress, Magento.</li>
-                        <li>Tech Stack: HTML, CSS, JQuery, Java Script, PHP, MySQL, Web services APIs, Open source Framwork, WordPress, Magento</li>
+                        <li>Manage the projects management team</li>
+                        <li>Developing eCommerce portal, Static & Dynamic Websites in WordPress, Magento.</li>
+                        <li>Completed six major projects, working closely with development team to develop, test and maintain Web based applications.</li>
+                        <li>Tech Stack: HTML, CSS, JQuery, JavaScript, PHP, MySQL, Web services APIs, Open source Framwork, WordPress, Magento</li>
                      </ul>
                   </div>
                   <div class="card-action"><span>Feb 2018 - Present | Gurugram, India</span></div>
@@ -145,8 +146,14 @@
                         <li>Built Cloud-based Real-Time Monitoring, Storage and Analytics Software application for solar PV</li>
                         <li>Application can collect, Organize and assess into PV performance.</li>
                         <li>Tech Stack: HTML, CSS, JQuery, Java Script, PHP, PostGreSQL, Raspberry Pi, Web services APIs, Open source Framwork.</li>
-                     </ul>
-                     <h6>Application Features</h6>
+                     </ul>                     
+                     <h6>Accomplishments</h6>
+                     <ul>
+                        <li>Developed an <a aria-label="Documentation" href="monitoring_ppt.pptx" target="_blank" data-tooltip="Documentation">application</a> to monitor Real-time PV Solar plant data with the help of IoT, NISE, an autonomous institution of Ministry of New and Renewable (MNRE), Gurgaon India.</li>
+
+                        <li>Designed and developed an application to monitor SRRA(Solar Radiation Resource Assessment) station for analysis of solar and meteorological data, National Institute of Wind Energy (NIWE), NIWE is an autonomous R&D institution under the Ministry of New and Renewable Energy, Government of India.</li>
+
+                        <h6>Application Features</h6>
                      <ul>
                         <li>Dashboarding</li>
                         <li>Dynamic Filtering</li>
@@ -157,17 +164,12 @@
                         <li>Quick and easy data visualization and exportation</li>
                         <li>and many more</li>
                      </ul>
-                     <h6>Accomplishments</h6>
-                     <ul>
-                        <li>Developed an <a aria-label="Documentation" href="monitoring_ppt.pptx" target="_blank" data-tooltip="Documentation">application</a> to monitor Real-time PV Solar plant data with the help of IoT, NISE, an autonomous institution of Ministry of New and Renewable (MNRE), Gurgaon India.</li>
-
-                        <li>Designed and developed an application to monitor SRRA(Solar Radiation Resource Assessment) station for analysis of solar and meteorological data, National Institute of Wind Energy (NIWE), NIWE is an autonomous R&D institution under the Ministry of New and Renewable Energy, Government of India.</li>
+							
+						<li>Worked on server-side platform, mostly involved in cloud platform Heroku, PHP, MySQL, JS, JQuery & Bootstrap</li>
 
                         <li>Designed an SEO optimized website for the company, Soreva Energy.</li>
 
-                        <li>Designed an SEO optimized website for Soreva & National Institute of solar energy to show the historical data of all solar plants installed at NISE.</li>
-
-                        <li>Worked on server-side platform, mostly involved in cloud platform Heroku, PHP, MySQL, JS, JQuery & Bootstrap</li>
+                        <li>Designed an SEO optimized website for Soreva & National Institute of solar energy to show the historical data of all solar plants installed at NISE.</li>                        
                      </ul>
                   </div>
                   <div class="card-action"><span>Dec 2016 - Dec 2017 | Gurgaon, India</span></div>
@@ -184,7 +186,7 @@
                      <p><em class="grey-text">A Web developement Company, Expertise in eCommerce Developement, Web Developement.</em></p>
                      <ul>
                         <li>Developed Static & Dynamic Websites.</li>
-                        <li>Stack: HTML, CSS, JQuery, Java Script, PHP, MySQL, Web services APIs, Open source Framwork.</li>
+                        <li>Stack: HTML, CSS, JQuery, Java Script, PHP & MySQL.</li>
                      </ul>
                   </div>
                   <div class="card-action"><span>Sep 2016 - Dec 2016 | Noida, India</span></div>
@@ -515,10 +517,22 @@
             <h3 class="page-title white-text teal">Honors & Awards</h3>
             <div class="container">
                <div class="row">
+               	<div class="col s12">
+                     <div class="card">
+                        <div class="card-content">
+                           <p><span class="card-title"><a href="https://re-invest.in/" target="_blank" class="teal-text hoverline">Participated as a delegate</a></span></p>
+                           <p class="brown-text">2nd Global RE-INVEST 2018 India-ISA Partnership Renewable Energy Investors Meet & Expo.</p>
+                           <ul>
+                              <li>RE-INVEST is a global platform to explore strategies for development and deployment of renewables. It showcases India’s clean energy market and the Government’s efforts to scale up capacity to meet the national energy demand in socially, economically and ecologically sustainable ways.</li>            
+                              
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
                   <div class="col s12">
                      <div class="card">
                         <div class="card-content">
-                           <p><span class="card-title"><a href="http://www.globalyouth.in/" target="_blank" class="teal-text hoverline">Invited as a delegate</a></span></p>
+                           <p><span class="card-title"><a href="http://www.globalyouth.in/" target="_blank" class="teal-text hoverline">Participated as a delegate</a></span></p>
                            <p class="brown-text">Global Youth Annual Summit | March 2018</p>
                            <ul>
                               <li>Global Youth is an apolitical, not-for-profit organisation looking to empower youth ambassadors for a global generation.</li>
@@ -528,10 +542,11 @@
                         </div>
                      </div>
                   </div>
+
                   <div class="col s12">
                      <div class="card">
                         <div class="card-content">
-                           <p><span class="card-title"><a href="https://data.gov.in/" target="_blank" class="teal-text hoverline">Invited as a delegate</a></span></p>
+                           <p><span class="card-title"><a href="https://data.gov.in/" target="_blank" class="teal-text hoverline">Participated as a delegate</a></span></p>
                            <p class="brown-text">Launch of #OpenGovDataHack | Sept 2017</p>
                            <ul>
                               <li>Open Government Data (OGD) Platform India is at the forefront in promoting innovation in Open Data ecosystem.</li>
@@ -545,7 +560,7 @@
                   <div class="col s12">
                      <div class="card">
                         <div class="card-content">
-                           <p><span class="card-title"><a href="http://www.renewableenergyindiaexpo.com/" target="_blank" class="teal-text hoverline">Invited as a delegate</a></span></p>
+                           <p><span class="card-title"><a href="http://www.renewableenergyindiaexpo.com/" target="_blank" class="teal-text hoverline">Participated as a delegate</a></span></p>
                            <p class="brown-text">Renewable Energy India Expo | Sept 2017</p>
                            <ul>
                               <li>UBM India launched the 11th edition of the Renewable Energy India (REI) Expo, the three days (20th to 22nd September 2017) show at the India Expo Center, Greater Noida.</li>
