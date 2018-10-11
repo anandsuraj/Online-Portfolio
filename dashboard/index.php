@@ -102,7 +102,7 @@
 
                <p>While I enjoy all aspects of my job, I think my favorite stage of a project is working with the client or business unit leader to understand his or her project requirement objectives.</p>
 
-               <p>As a web developer, I enjoy using my obsessive attention to detail, my unequivocal love for making things, and my mission-driven work ethic to literally change the world. That's why I’m excited to make a big impact at a high growth company.</p>
+               <p>As a developer, I enjoy using my obsessive attention to detail, my unequivocal love for making things, and my mission-driven work ethic to literally change the world. That's why I’m excited to make a big impact at a high growth company.</p>
 
                <p><strong>I try to make things that make a difference</strong>.</p>
             </div>
@@ -113,18 +113,18 @@
                <div class="card">
                   <div class="card-content">
                      <div class="row">
-                        <div class="col s12 m2"><a href="https://deducation.in" target="_blank"><img alt="Startup Institute logo" src="static/img/deducation.png" class="responsive-img center-block"></a></div>
+                        <div class="col s12 m2"><a href="#" target="_blank"><img alt="Startup Institute logo" src="static/img/deducation.png" class="responsive-img center-block"></a></div>
                         <div class="col s12 m10">
-                           <p><span class="card-title"><a href="https://deducation.in" target="_blank" class="teal-text hoverline">Digital Projects</a></span></p>
+                           <p><span class="card-title"><a href="#" target="_blank" class="teal-text hoverline">Digital Projects</a></span></p>
                         </div>
                      </div>
                      <div class="role brown-text">UI Designer</div>
                      <p><em class="grey-text">A Web developement Company, Expertise in eCommerce Developement, Web Developement & Digital Marketing.</em></p>
                      <ul>
-                        <li>Leading the company’s Web development efforts</li>
+                        <li>Leading the company’s web development efforts</li>
                         <li>Manage the projects management team</li>
                         <li>Developing eCommerce portal, Static & Dynamic Websites in WordPress, Magento.</li>
-                        <li>Completed six major projects, working closely with development team to develop, test and maintain Web based applications.</li>
+                        <li>Completed major projects, working closely with development team to develop, test and maintain Web based applications.</li>
                         <li>Tech Stack: HTML, CSS, JQuery, JavaScript, PHP, MySQL, Web services APIs, Open source Framwork, WordPress, Magento</li>
                      </ul>
                   </div>
@@ -145,7 +145,7 @@
                         <li>Led the company’s software development efforts</li>
                         <li>Built Cloud-based Real-Time Monitoring, Storage and Analytics Software application for solar PV</li>
                         <li>Application can collect, Organize and assess into PV performance.</li>
-                        <li>Tech Stack: HTML, CSS, JQuery, Java Script, PHP, PostGreSQL, Raspberry Pi, Web services APIs, Open source Framwork.</li>
+                        <li>Tech Stack: HTML, CSS, JQuery, Java Script, PHP, PostgreSQL, Raspberry Pi, Web services APIs, Open source Framwork.</li>
                      </ul>                     
                      <h6>Accomplishments</h6>
                      <ul>
