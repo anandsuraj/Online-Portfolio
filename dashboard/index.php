@@ -94,7 +94,7 @@
          </section>
          <section id="about" class="section scrollspy">
             <h3 class="page-title white-text teal">About</h3>
-            <div class="container flow-text">
+            <div class="container flow-text" style="text-align: justify;">
                <blockquote>
                   <h2>Mission-driven full stack developer with a passion for thoughtful, Creative, Innovative UI design and collaboration.</h2>
                </blockquote>
