@@ -98,9 +98,8 @@
                <blockquote>
                   <h2>Mission-driven full stack developer with a passion for thoughtful, Creative, Innovative UI design and collaboration.</h2>
                </blockquote>
-               <p>I’ve always sought out opportunities and challenges that are meaningful to me.I've never stopped engaging my passion to help others and solve problems.I’m truly passionate about my work. </p>
-
-               <p>While I enjoy all aspects of my job, I think my favorite stage of a project is working with the client or business unit leader to understand his or her project requirement objectives.</p>
+               <p>I’ve always sought out opportunities and challenges that are meaningful to me.I've never stopped engaging my passion to help others and solve problems.I’m truly passionate about my work.
+               While I enjoy all aspects of my job, I think my favorite stage of a project is working with the client or business unit leader to understand his or her project requirement objectives.</p>
 
                <p>I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set, as continuing to learn new languages and development techniques are important to me and the success of any organization.</p>
 
