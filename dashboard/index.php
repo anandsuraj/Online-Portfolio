@@ -102,6 +102,8 @@
 
                <p>While I enjoy all aspects of my job, I think my favorite stage of a project is working with the client or business unit leader to understand his or her project requirement objectives.</p>
 
+               <p>I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set, as continuing to learn new languages and development techniques are important to me and the success of any organization.</p>
+
                <p>As a developer, I enjoy using my obsessive attention to detail, my unequivocal love for making things, and my mission-driven work ethic to literally change the world. That's why I’m excited to make a big impact at a high growth company.</p>
 
                <p><strong>I try to make things that make a difference</strong>.</p>
