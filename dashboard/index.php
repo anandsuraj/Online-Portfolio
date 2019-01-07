@@ -83,7 +83,7 @@
             <li class="bold"><a aria-label="Navigate to the Awards section" href="#awards" class="waves-effect waves-dark red-text"><i class="mdi-action-grade small"></i><span>Awards</span></a></li>
             <li class="bold"><a aria-label="Navigate to the Education section" href="#education" class="waves-effect waves-dark orange-text"><i class="mdi-social-school small"></i><span>Education</span></a></li>
             <li class="bold"><a aria-label="Navigate to the Contact section" href="#contact" class="waves-effect waves-dark brown-text"><i class="mdi-content-mail small"></i><span>Contact</span></a></li>
-            <li class="bold"><a aria-label="Navigate to the Resume section" href="suraj-anand-resume.pdf" target="_blank" class="waves-effect waves-dark grey-text text-darken-3"><i class="mdi-action-description small"></i><span>Resume</span></a></li>
+            <li class="bold"><a aria-label="Navigate to the Resume section" href="suraj-anand.pdf" target="_blank" class="waves-effect waves-dark grey-text text-darken-3"><i class="mdi-action-description small"></i><span>Resume</span></a></li>
          </ul>
       </nav>
       <main>
@@ -194,8 +194,10 @@
                </div>
             </div>
          </section>
+
+
          <section id="projects" class="section scrollspy">
-            <h3 class="page-title white-text teal">Projects</h3>
+            <h3 class="page-title white-text teal">Recent Projects</h3>
             <div class="container">
                <div class="row">                  
                   <div class="col s12 m6 l4">
@@ -224,7 +226,7 @@
                         <div class="card-image waves-effect waves-block waves-light"><img alt="" src="static/img/projects/niwe.png" class="activator"></div>
                         <div class="card-content">
                            <span class="card-title activator teal-text hoverline">Real-Time Weather Monitoring System(NIWE)<i class="mdi-navigation-more-vert right"></i></span>
-                           <p>Designed an Web apps to monitor the Real-Time Solar Radiation Resource Assessment Workstation Weather Data, Hosted at National Institute of Wind Energy, Chennai.</p>
+                           <p>Designed an Web apps to monitor the Real-Time Solar Radiation Resource Assessment Workstation Weather Data, Hosted at NIWE, Chennai.</p>
                         </div>
                         <div class="card-reveal">
                            <span class="card-title brown-text">Accomplishments<i class="mdi-navigation-close right"></i></span>
@@ -248,8 +250,7 @@
                         </div>
                         <div class="card-reveal">
                            <span class="card-title brown-text">Accomplishments<i class="mdi-navigation-close right"></i></span>
-                           <ul>
-                              <li><strong>Features</strong></li>                              
+                           <ul>                                                   
                               <li><strong>Payment Gateway</strong></li>                         
                               <li><strong>Shipping Method</strong></li>        
                               <li><strong>Secure</strong></li>
@@ -261,25 +262,49 @@
                         </div>
                      </div>
                   </div>
+
+                  <div class="col s12 m6 l4">
+                     <div class="card medium">
+                        <div class="card-image waves-effect waves-block waves-light"> <img alt="FP Academy website designed by suraj anand" src="static/img/projects/fpacademy.JPG" class="activator"></div>
+                        <div class="card-content">
+                           <span class="card-title activator teal-text hoverline">FP Academy<i class="mdi-navigation-more-vert right"></i></span>
+                           <p>FP Academy connects students with their future colleagues and partners, nationally and internationally.</p>
+                        </div>
+                        <div class="card-reveal">
+                           <span class="card-title brown-text">Accomplishments<i class="mdi-navigation-close right"></i></span>
+                           <ul>                              
+                              <li>Front-End & Back-End Development</li>
+                              <li>HTML5, CSS3, Javascript, PHP, APIs</li>                              
+                              <li>Compatible with all latest browser</li>
+                              <li>Light-Weight & SEO optimized</li>                              
+                              <li>Hours of fun!</li>
+                           </ul>
+                           <div class="card-action"><a aria-label="Visit FP Academy website" href="https://fpacademy.nl" target="_blank" data-position="top" data-tooltip="View Online" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-external-link"></i></a></div>
+                        </div>
+                     </div>
+                  </div>
+
                   <div class="col s12 m6 l4">
                      <div class="card medium">
                         <div class="card-image waves-effect waves-block waves-light"> <img alt="dlt-shoes" src="static/img/projects/dlt-shoes.png" class="activator"></div>
                         <div class="card-content">
-                           <span class="card-title activator teal-text hoverline">DLT Shoes(Under Constr.)<i class="mdi-navigation-more-vert right"></i></span>
-                           <p>Designing a Responsive, Light-Weight, Secure Ecommerce Website for a Shoes company Based in USA.</p>
+                           <span class="card-title activator teal-text hoverline">DLT Shoes<i class="mdi-navigation-more-vert right"></i></span>
+                           <p>DLT Shoes, a Goodyear Welted Boutique Shoes Store owned by Aditya Overseas Group partner with various Global brands with an expertise of more than two decades in Footwear craftsmanship. </p>
                         </div>
                         <div class="card-reveal">
                            <span class="card-title brown-text">Accomplishments<i class="mdi-navigation-close right"></i></span>
-                           <ul>
-                              <li><strong>Features</strong></li>
-                              <li><strong>Customized</strong> Woocommerce for Shop and Products.</li>
-                              <li><strong>Multi-Currency</strong> integration</li>
-                              <li>Payment & Shipping Integration</li>
+                           <ul>                                 
+                              <li>Front-End & Back-End Development</li>
+                              <li>HTML5, CSS3, Javascript, PHP, APIs</li>
+                              <li>Payment Gateway & Shipping Method Integrated</li>
+                              <li>Multi-Currency integration</li>
+                              <li>Compatible with all latest browser</li>
                            </ul>
-                           <div class="card-action"><a aria-label="Will be live soon" href="http://dltshoes.com" target="_blank" data-position="top" data-tooltip="View Online" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-external-link"></i></a></div>
+                           <div class="card-action"><a aria-label="Will be live soon" href="https://dltshoes.com" target="_blank" data-position="top" data-tooltip="View Online" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-external-link"></i></a></div>
                         </div>
                      </div>
                   </div>
+
                   <div class="col s12 m6 l4">
                      <div class="card medium">
                         <div class="card-image waves-effect waves-block waves-light"> <img alt="Onitaa website designed by suraj anand" src="static/img/projects/onitaa.JPG" class="activator"></div>
@@ -290,50 +315,33 @@
                         <div class="card-reveal">
                            <span class="card-title brown-text">Accomplishments<i class="mdi-navigation-close right"></i></span>
                            <ul>
-                              <li>Light-Weight & SEO optimized</li>
-                              <li>Compatible with all devices</li>
+                           <li>Front-End & Back-End Development</li>
+                              <li>HTML5, CSS3, Javascript, PHP, APIs</li> 
+ 				                  <li>Light-Weight & SEO optimized</li>                             
                               <li>Compatible with all latest browser</li>
+                              <li>Light-Weight & SEO optimized</li>                              
                               <li>Hours of fun!</li>
                            </ul>
                            <div class="card-action"><a aria-label="Visit Onitaa website" href="https://onitaa.co.uk/" target="_blank" data-position="top" data-tooltip="View Online" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-external-link"></i></a></div>
                         </div>
                      </div>
-                  </div>
-
-                  <div class="col s12 m6 l4">
-                     <div class="card medium">
-                        <div class="card-image waves-effect waves-block waves-light"> <img alt="FP Academy website designed by suraj anand" src="static/img/projects/fpacademy.JPG" class="activator"></div>
-                        <div class="card-content">
-                           <span class="card-title activator teal-text hoverline">FP Academy(Under Constr.)<i class="mdi-navigation-more-vert right"></i></span>
-                           <p>FP Academy connects students with their future colleagues and partners, nationally and internationally.</p>
-                        </div>
-                        <div class="card-reveal">
-                           <span class="card-title brown-text">Accomplishments<i class="mdi-navigation-close right"></i></span>
-                           <ul>
-                              <li>Light-Weight & SEO optimized</li>
-                              <li>Compatible with all devices</li>
-                              <li>Compatible with all latest browser</li>
-                              <li>Hours of fun!</li>
-                           </ul>
-                           <div class="card-action"><a aria-label="Visit FP Academy website" href="http://avencher.com/fpacademy/" target="_blank" data-position="top" data-tooltip="View Online" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-external-link"></i></a></div>
-                        </div>
-                     </div>
-                  </div>
+                  </div>                 
 
                   <div class="col s12 m6 l4">
                      <div class="card medium">
                         <div class="card-image waves-effect waves-block waves-light"><img alt="Sajid Shahid suraj anand" src="static/img/projects/sajidshahid-min.png" class="activator"></div>
                         <div class="card-content">
                            <span class="card-title activator teal-text hoverline">Sajid Shahid Photography<i class="mdi-navigation-more-vert right"></i></span>
-                           <p>Restyled UI, design WordPress theme & Plugins.</p>
+                           <p>Sajid Shahid is a celebrity and fashion photographer based out in Delhi, Aggressively involved in Fashion, Celebrity and Commercial Photography for the past five years.</p>
                         </div>
                         <div class="card-reveal">
                            <span class="card-title brown-text">Accomplishments<i class="mdi-navigation-close right"></i></span>
                            <ul>
-                              <li>Restyled UI, design, and branding</li>
+                              <li>Custom UI design, and branding</li>
                               <li>Reorganized user process and flow</li>
                               <li>Built with <strong>WordPress</strong></li>
-                              <li>Original Redesign</li>
+                              <li>Light-Weight & SEO optimized</li>                                              
+                              <li>Hours of fun!</li>
                            </ul>
                            <div class="card-action"><a aria-label="Visit Sajid Shahid website" href="http://sajidshahid.com" target="_blank" data-position="top" data-tooltip="View Online" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-external-link"></i></a></div>
                         </div>
@@ -344,17 +352,19 @@
                         <div class="card-image waves-effect waves-block waves-light"><img alt="Destiny India Holidays suraj anand " src="static/img/projects/destinyindiaholidays-min.png" class="activator"></div>
                         <div class="card-content">
                            <span class="card-title activator teal-text hoverline">Destiny India Holidays<i class="mdi-navigation-more-vert right"></i></span>
-                           <p>A customized WordPress Website for International Tourist.</p>
+                           <p>Destiny India Holidays is a gateway to information and services for travelers in general and specifically for those who want to get to know India a little bit closer.</p>
                         </div>
                         <div class="card-reveal">
                            <span class="card-title brown-text">Accomplishments<i class="mdi-navigation-close right"></i></span>
                            <ul>
-                              <li><strong>Customized</strong> themes and plugins</li>
-                              <li>Wordpress</li>
-                              <li>Fully <strong>responsive</strong> designs</li>
-                              <li>SEO Optimized</li>
+                           <li>Front-End & Back-End Development</li>
+                              <li>HTML5, CSS3, Javascript, PHP, APIs</li> 
+ 				                  <li>Light-Weight & SEO optimized</li>                             
+                              <li>Compatible with all latest browser</li>
+                              <li>Light-Weight & SEO optimized</li>                              
+                              <li>Hours of fun!</li>
                            </ul>
-                           <div class="card-action"><a aria-label="Visit Destiny India Holidays website" href="http://destinyindiaholidays.com" target="_blank" data-position="top" data-tooltip="View Online" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-external-link"></i></a></div>
+                           <div class="card-action"><a aria-label="Visit Destiny India Holidays website" href="https://destinyindiaholidays.com" target="_blank" data-position="top" data-tooltip="View Online" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-external-link"></i></a></div>
                         </div>
                      </div>
                   </div>
@@ -363,15 +373,17 @@
                         <div class="card-image waves-effect waves-block waves-light"> <img alt="Mahavira Energy suraj anand" src="static/img/projects/mahaviraenergy-min.PNG" class="activator"></div>
                         <div class="card-content">
                            <span class="card-title activator teal-text hoverline">Mahavira Energy<i class="mdi-navigation-more-vert right"></i></span>
-                           <p>An eCommerce WordPress Website with Woocommerce features.</p>
+                           <p>Mahavira Energy Pvt Ltd is one of the renowned companies set up in the year of 2014 and the company is professionally-managed. The company is also globally known for its EPC responsibility.</p>
                         </div>
                         <div class="card-reveal">
                            <span class="card-title brown-text">Accomplishments<i class="mdi-navigation-close right"></i></span>
                            <ul>
+
+                              <li>Front-End & Back-End Development</li>
+                              <li>HTML5, CSS3, Javascript, PHP, APIs</li>
                               <li>Customized WordPress Theme & Plugins.</li>
-                              <li><strong>Customized</strong> Woocommerce for Shop and Products.</li>
-                              <li>Custom <strong>Google Maps API</strong> integration</li>
-                              <li>Automatic location/distance calculation</li>
+                              <li><strong>Customized</strong> Woocommerce for Shop and Products.</li>                             
+                              <li>Compatible with all latest browser</li>
                            </ul>
                            <div class="card-action"><a aria-label="Visit Mahavira Energy website" href="http://mahaviraenergy.com" target="_blank" data-position="top" data-tooltip="View Online" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-external-link"></i></a><a aria-label="#" href="#" target="_blank" data-position="top" data-tooltip="View Source" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-github"></i></a></div>
                         </div>
@@ -382,7 +394,7 @@
                         <div class="card-image waves-effect waves-block waves-light"><img alt="Avencher suraj anand" src="static/img/projects/avencher-min.PNG" class="activator"></div>
                         <div class="card-content">
                            <span class="card-title activator teal-text hoverline">Avencher<i class="mdi-navigation-more-vert right"></i></span>
-                           <p>Designed a Responsive Website for a Web Agency start-up</p>
+                           <p>Avencher is a global IT solutions company based in Gr. Noida, India. Avencher is best-known for delivering online success to businesses and companies worldwide. </p>
                         </div>
                         <div class="card-reveal">
                            <span class="card-title brown-text">Accomplishments<i class="mdi-navigation-close right"></i></span>
@@ -417,20 +429,21 @@
                   
                   <div class="col s12 m6 l4">
                      <div class="card medium">
-                        <div class="card-image waves-effect waves-block waves-light"><img alt="Soreva" src="static/img/projects/soreva-min.PNG" class="activator"></div>
+                        <div class="card-image waves-effect waves-block waves-light"><img alt="iw13football" src="static/img/projects/iw3football.PNG" class="activator"></div>
                         <div class="card-content">
-                           <span class="card-title activator teal-text hoverline">Soreva<i class="mdi-navigation-more-vert right"></i></span>
+                           <span class="card-title activator teal-text hoverline">IW13 football<i class="mdi-navigation-more-vert right"></i></span>
                            <p>A fully Customized HTML, Jquery, Bootstrap Design.</p>
                         </div>
                         <div class="card-reveal">
                            <span class="card-title brown-text">Accomplishments<i class="mdi-navigation-close right"></i></span>
                            <ul>
-                              <li>Fully customized <strong>HTML</strong>Theme</li>
+                           <li>Front-End & Back-End Development</li>
+                              <li>HTML5, CSS3, Javascript, PHP, APIs</li>   
                               <li>Integrates <strong>Blogs and Gallery</strong></li>
                               <li>Compatible with all devices.</li>
                               <li>Compatible with all latest browser</li>
                            </ul>
-                           <div class="card-action"><a aria-label="Visit Soreva website" href="http://soreva.co.in" target="_blank" data-position="top" data-tooltip="View Online" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-external-link"></i></a></div>
+                           <div class="card-action"><a aria-label="Visit IW13 football website" href="http://www.iw13football.nl/" target="_blank" data-position="top" data-tooltip="View Online" class="btn-floating btn-large waves-effect waves-light brown tooltipped"><i class="fa fa-external-link"></i></a></div>
                         </div>
                      </div>
                   </div>
@@ -439,12 +452,12 @@
                         <div class="card-image waves-effect waves-block waves-light"><img alt="LPG Rice" src="static/img/projects/lpgrice-min.png" class="activator"></div>
                         <div class="card-content">
                            <span class="card-title activator teal-text hoverline">LPG Rice<i class="mdi-navigation-more-vert right"></i></span>
-                           <p>A responsive, Beautiful, Informative static HTML Website.</p>
+                           <p>Luxmi Premium Grains India Pvt. Ltd.is pioneer into milling of finest quality of Basmati, Non-Basmati and long grain rice.</p>
                         </div>
                         <div class="card-reveal">
                            <span class="card-title brown-text">Accomplishments<i class="mdi-navigation-close right"></i></span>
                            <ul>
-                              <li>Made <strong>Responsive</strong> Design</li>
+                              <li>Designed <strong>Responsive</strong> Design</li>
                               <li>Customized Javascript & JQuery</li>
                               <li>Optimized, SEO Friendly.</li>
                               <li>Built with <strong>HTML</strong> <strong>JQuery</strong> Bootstrap</li>
@@ -488,10 +501,11 @@
                   <div class="card-content">
                      <h4 class="brown-text light">Version Control & Virtualization/Cloud Technologies</h4>
                      <div class="row text-center">
-                        <div class="col s4 m2"><img alt="" src="static/img/git.png" class="responsive-img"></div>
-                        <div class="col s4 m2"><img alt="" src="static/img/bitbucket.gif" class="responsive-img">Bitbucket</div>
+                     <div class="col s4 m2"><img alt="" src="static/img/aws.png" class="responsive-img">AWS</div>
+                        <div class="col s4 m2"><img alt="" src="static/img/git.png" class="responsive-img">Git</div>                        
                         <div class="row text-center">
-                        <div class="col s4 m2"><img alt="" src="static/img/github.png" class="responsive-img">Github</div>
+                        <div class="col s4 m2"><img alt="" src="static/img/bitbucket.gif" class="responsive-img">Bitbucket</div>
+                        
                         <div class="col s4 m2"><img alt="" src="static/img/heroku-logo.png" class="responsive-img">Heroku</div>
                         <div class="col s4 m2"><img alt="" src="static/img/linux-logo.jpg" class="responsive-img">Linux</div>
                      </div>
